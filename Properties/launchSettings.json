@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "chnasm": {
+      "commandName": "Project",
+      "commandLineArgs": "test.asm test.bin",
+      "nativeDebugging": true
+    }
+  }
+}

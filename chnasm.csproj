@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Alex Westerman</Authors>
+    <Product>*Creative Name Here* Assembler</Product>
+    <Description>Assembler for Code written targeting the *Creative Name Here* Processor Architecture.</Description>
+    <Copyright>2021</Copyright>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <AssemblyVersion>1.2.0.5</AssemblyVersion>
+    <FileVersion>1.2.0.5</FileVersion>
+    <Version>1.2.0.5</Version>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+
+</Project>
